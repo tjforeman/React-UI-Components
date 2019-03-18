@@ -1,1 +1,26 @@
 /* All styles for your header Components live here */
+.header-container {
+    display: flex;
+    max-width: 600px;
+}
+
+.header-title-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    width:70%;
+    margin-left:10px;
+    height:30%;
+}
+
+
+img {
+     width:10%;
+    height:20%;
+} 
+
+
+p {
+    margin-left:10px;
+    line-height:1.4;
+}
