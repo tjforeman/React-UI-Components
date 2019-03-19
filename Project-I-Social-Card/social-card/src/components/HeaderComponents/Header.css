@@ -1,13 +1,13 @@
 /* All styles for your header Components live here */
 .header-container {
     display: flex;
-    max-width: 600px;
+    width: 600px;
 }
 
 .header-title-container {
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items:center;
     width:70%;
     margin-left:10px;
     height:30%;
@@ -23,7 +23,7 @@ img {
 } 
 
 
-p {
+.content {
     margin-left:10px;
     line-height:1.4;
 }
