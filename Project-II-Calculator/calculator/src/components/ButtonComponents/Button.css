@@ -1,0 +1,28 @@
+.button-container{
+    width:360px;
+}
+.small{
+    width:25%;
+    height:80px;
+    background-color:white;
+    font-size:30px;
+    border:1px solid gray;
+    font-weight:bold;
+}
+.big{
+    width:75%;
+    height:80px;
+    background-color:white;
+    font-size:30px;
+    border:1px solid gray;
+    font-weight:bold;
+}
+.symbol{
+    width:25%;
+    height:80px;
+    background-color:rgb(204, 10, 49);
+    color:white;
+    font-size:30px;
+    border:1px solid gray;
+    font-weight:bold;
+}

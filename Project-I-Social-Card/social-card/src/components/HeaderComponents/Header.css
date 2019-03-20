@@ -1,1 +1,29 @@
 /* All styles for your header Components live here */
+.header-container {
+    display: flex;
+    width: 600px;
+}
+
+.header-title-container {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    width:70%;
+    margin-left:10px;
+    height:30%;
+}
+.header-title-container p{
+    color:gray;
+}
+
+
+img {
+     width:10%;
+    height:20%;
+} 
+
+
+.content {
+    margin-left:10px;
+    line-height:1.4;
+}
