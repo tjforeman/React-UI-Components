@@ -5,7 +5,7 @@ import Buttons from './components/ButtonComponents/Buttons'
 
 const App = () => {
   return (
-    <div clasName='container'>
+    <div className='container'>
      <CalculatorDisplay /> 
       <Buttons />
     </div>
